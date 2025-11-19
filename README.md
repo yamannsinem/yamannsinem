@@ -28,24 +28,4 @@
 
 ### ⚙️ Backend & Dev
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="color:#316192"/>
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" width="40" height="40" style="color:#F24E1E"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" alt="Git" width="40" height="40" style="color:#F05032"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" style="color:#181717"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/canva.svg" alt="Canva" width="40" height="40" style="color:#00C4CC"/>
-</p>
-
-### 🔣 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/c.svg" alt="C" width="40" height="40" style="color:#00599C"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/java.svg" alt="Java" width="40" height="40" style="color:#007396"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" height="40" style="color:#3776AB"/>
-</p>
-
----
-
-<p align="center">✨ Always learning, always creating ✨</p>
+  <img src="https://cdn.jsdelivr.net/npm/sim
