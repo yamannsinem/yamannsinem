@@ -7,12 +7,13 @@
 ### 🌐 Connect With Me :
 <p align="center">
   <a href="https://www.instagram.com/yamannsineem/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
   </a>
   <a href="https://www.linkedin.com/in/sinem-y-a46061332" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color:#0A66C2"/>
   </a>
 </p>
+
 
 ---
 
