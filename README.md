@@ -5,8 +5,14 @@
 </p>
 ---
 ### 🌐 Connect With Me :
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamannsineem/?__pwa=1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sinem-y-a46061332)
+<p align="center">
+  <a href="https://www.instagram.com/yamannsineem/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sinem-y-a46061332" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
