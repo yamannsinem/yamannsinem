@@ -1,18 +1,9 @@
 <h1 align="center">
-  👋 Hi, I'm 
-  <span style="background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); 
-               -webkit-background-clip: text; 
-               color: transparent;">
-    Sinem 🧚
-  </span>
+  👋 Hi, I'm <span style="color:#FF69B4;">Sinem 🧚</span>
 </h1>
 
 <p align="center">
-  🚀 <span style="background: linear-gradient(90deg, #00BFFF, #1E90FF, #4169E1); 
-               -webkit-background-clip: text; 
-               color: transparent;">
-    Software Engineering Student
-  </span>
+  🚀 <span style="color:#00BFFF;">Software Engineering Student</span>
 </p>
 
 ---
