@@ -3,8 +3,10 @@
 <p align="center">
   🚀 Software Engineering Student 
 </p>
+
 ---
-### 🌐 Connect With Me :
+
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.instagram.com/yamannsineem/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/>
@@ -14,28 +16,35 @@
   </a>
 </p>
 
-
 ---
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" alt="HTML5" width="40" height="40" style="color:#E34F26"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" alt="CSS3" width="40" height="40" style="color:#1572B6"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="color:#F7DF1E"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" width="40" height="40" style="color:#61DAFB"/>
+</p>
 
 ### ⚙️ Backend & Dev
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="color:#316192"/>
+</p>
 
 ### 🛠️ Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" alt="Figma" width="40" height="40" style="color:#F24E1E"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" alt="Git" width="40" height="40" style="color:#F05032"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" style="color:#181717"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/canva.svg" alt="Canva" width="40" height="40" style="color:#00C4CC"/>
+</p>
 
 ### 🔣 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/c.svg" alt="C" width="40" height="40" style="color:#00599C"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/java.svg" alt="Java" width="40" height="40" style="color:#007396"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" height="40" style="color:#3776AB"/>
+</p>
 
 ---
 
