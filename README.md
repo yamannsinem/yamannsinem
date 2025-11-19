@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#FF69B4">Sinem</span> 🧚</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#FF69B4; font-family:Verdana, Geneva, sans-serif;">Sinem 🧚</span>
+</h1>
 
-<p align="center">
-  <b>🚀 Aspiring Software Engineering Student</b><br>
-  💻 Passionate about <span style="color:#61DAFB">React</span>, <span style="color:#FF4154">Web3</span>, and innovative tech  
-</p>
-
-<p align="center">
-  🌟 Always eager to learn & build cool stuff!  
+<p align="center" style="color:#00BFFF; font-family:Arial, Helvetica, sans-serif;">
+  🚀 Software Engineering Student
 </p>
 
 ---
