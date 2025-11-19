@@ -4,7 +4,7 @@
   🚀 Software Engineering Student 
 </p>
 ---
-## 🌐 Connect With Me :
+### 🌐 Connect With Me :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yamannsineem/?__pwa=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sinem-y-a46061332)
 
@@ -29,16 +29,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinem&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
