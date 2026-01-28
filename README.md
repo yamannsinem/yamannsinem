@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/BQKbo_mXUx4AAAAi/hello-kitty-tea.gif" width="150"/>
 </p>
 
-<h3 align="center">👾 <span style="color:#00BFFF">Software Engineering Student 🌸</span></h3>
+<h3 align="center"> <span style="color:#00BFFF">- Software Engineering Student </span></h3>
 
 ---
 
@@ -42,7 +42,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Always%20learning-💜-purple?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Always%20learning-🤍-purple?style=for-the-badge&logo=github"/>
 </h3>
 
 
