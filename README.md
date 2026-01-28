@@ -46,4 +46,3 @@
 </h3>
 
 
-<h3 align="center">✨“Keep moving forward!”​​​​</h3>
