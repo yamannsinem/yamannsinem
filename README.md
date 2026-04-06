@@ -7,7 +7,19 @@
   <img src="https://media.tenor.com/BQKbo_mXUx4AAAAi/hello-kitty-tea.gif" width="150"/>
 </p>
 
-<h3 align="center"> <span style="color:#00BFFF">- Software Engineering Student </span></h3>
+İnönü Üniversitesi'nde **Yazılım Mühendisliği** öğrencisiyim. Fullstack geliştirme ve mobil uygulama dünyasına tutkuyla bağlıyım. Şu sıralar kurumsal çözümler ve modern web arayüzleri üzerine kendimi geliştiriyorum.
+
+### 🚀 Nelerle Uğraşıyorum?
+- 🎓 **Şu an Öğreniyorum:** Jakarta EE (Backend) & Vue.js (Frontend)
+- 📱 **İlgi Alanım:** Fullstack web sistemleri ve kullanıcı odaklı mobil uygulamalar.
+- ⚙️ **Arka Plan:** Python (FastAPI), PostgreSQL ve Docker ekosistemi.
+
+### 🛠️ Teknolojiler & Araçlar
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-001439?style=flat-square&logo=eclipse-che&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -27,23 +39,48 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-000000?style=for-the-badge&logo=jakartaee&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-purple?style=for-the-badge) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+  ### 🔧 Araçlar :
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+
+### 📊 GitHub İstatistiklerim
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yamannsinem&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+![Gökkuşağı](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+
 
 <br>
 <h3 align="center">
   <img src="https://img.shields.io/badge/Always%20learning-🤍-purple?style=for-the-badge&logo=github"/>
 </h3>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+<div align="center">
+
+![Profil Görüntülenme](https://komarev.com/ghpvc/?username=yamannsinem&color=ff69b4&style=for-the-badge)
+
+</div>
 
 
