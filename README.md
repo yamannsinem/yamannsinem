@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/BQKbo_mXUx4AAAAi/hello-kitty-tea.gif" width="150"/>
 </p>
 
-İnönü Üniversitesi'nde **Yazılım Mühendisliği** öğrencisiyim. Fullstack geliştirme ve mobil uygulama dünyasına tutkuyla bağlıyım. Şu sıralar kurumsal çözümler ve modern web arayüzleri üzerine kendimi geliştiriyorum.
+ 💻 İnönü Üniversitesi'nde **Yazılım Mühendisliği** öğrencisiyim. Fullstack geliştirme ve mobil uygulama dünyasına tutkuyla bağlıyım. Şu sıralar kurumsal çözümler ve modern web arayüzleri üzerine kendimi geliştiriyorum.
 
 ### 🚀 Nelerle Uğraşıyorum?
 - 🎓 **Şu an Öğreniyorum:** Jakarta EE (Backend) & Vue.js (Frontend)
@@ -62,15 +62,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-### 📊 GitHub İstatistiklerim
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yamannsinem&theme=tokyonight)](https://git.io/streak-stats)
-
----
-![Gökkuşağı](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
-
 
 <br>
+
 <h3 align="center">
   <img src="https://img.shields.io/badge/Always%20learning-🤍-purple?style=for-the-badge&logo=github"/>
 </h3>
